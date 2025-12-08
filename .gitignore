@@ -1,0 +1,16 @@
+# Build artifacts
+build/
+JUCE/
+
+# IDE files
+.vscode/
+*.xcodeproj/
+*.xcworkspace/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Claude
+.claude/
