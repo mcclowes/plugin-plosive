@@ -2,6 +2,8 @@
 
 A JUCE-based audio plugin for removing plosive sounds (P, B, T pops) from vocal recordings. Available as AU (Logic Pro), VST3, and Standalone formats.
 
+![Plosive Remover in Logic Pro](screenshot.png)
+
 ## Features
 
 - **Adaptive threshold detection** - automatically adjusts to input signal level
